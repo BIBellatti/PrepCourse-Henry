@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Esta es una prueba del modulo 2 del PrepCourse de Henry
+Este proyecto es prueba de creacion de repositorio y clonar a la pc
